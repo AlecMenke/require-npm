@@ -1,0 +1,15 @@
+{
+  "name": "require-npm",
+  "version": "1.3.6",
+  "description": "Local NPM Module Repository",
+  "main": "require.js",
+  "scripts": {
+    "start": "node example"
+  },
+  "keywords": ["npm", "require", "cache", "storage", "module", "local", "global"],
+  "author": "LogicsSoldier@gmail.com",
+  "license": "ISC",
+  "bin": {
+    "require": "require.js"
+  }
+}
